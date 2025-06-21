@@ -94,7 +94,7 @@ Semester: **Fall 2024/2025**
 
 Team Members:  
 - 👤 *Anas AL Sayed*  
-- 👤 *ABD AL-RHEEM YASEEN *  
+- 👤 *ABD AL-RHEEM YASEEN*  
 - 🎓 Birzeit University
 
 ---
