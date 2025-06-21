@@ -93,8 +93,8 @@ This project was created as part of:
 Semester: **Fall 2024/2025**
 
 Team Members:  
-- 👤 *[Your Name]*  
-- 👤 *[Partner Names, if applicable]*  
+- 👤 *Anas AL Sayed*  
+- 👤 *ABD AL-RHEEM YASEEN *  
 - 🎓 Birzeit University
 
 ---
